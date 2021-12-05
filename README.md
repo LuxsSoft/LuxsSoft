@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LuxsSoft from Switzerland
-- 👀 I’m interested in match making applications, auction design, p2p protocols
+- 👋 Hi, I’m @LuxsSoft from Switzerland and this is my new public profile
+- 👀 I’m interested in match making applications, auction design and p2p protocols
 - 🌱 I’m currently learning 3D web dev with Three.js
 
 <!---
